@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title id="page-title">Lesson, Learn Darija</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Rakkas&family=Jost:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container">
+      <div class="brand">
+        <span class="display">Learn Darija</span>
+        <span class="brand-tag">Moroccan Arabic, made simple</span>
+      </div>
+      <nav class="site-nav">
+        <a href="index.html#courses">All Lessons</a>
+        <a href="index.html#progress">My Progress</a>
+        <a href="review.html">Review</a>
+        <a href="glossary.html">Glossary</a>
+      </nav>
+      <a href="https://paypal.me/YOUR-USERNAME-HERE" target="_blank" rel="noopener" class="support-btn">☕ Support</a>
+    </div>
+  </header>
+
+  <section class="lesson-header">
+    <div class="container">
+      <p class="lesson-breadcrumb"><a href="index.html">Home</a> / <span id="crumb-level"></span></p>
+      <h1 id="lesson-title">Loading…</h1>
+      <p class="lesson-subtitle" id="lesson-subtitle"></p>
+    </div>
+  </section>
+
+  <div class="container">
+    <div class="lesson-intro" id="lesson-intro-box">
+      <p id="lesson-intro-text"></p>
+      <div class="key-points" id="key-points-box"></div>
+    </div>
+  </div>
+
+  <section class="section" id="vocab-section" style="display:none;">
+    <div class="container">
+      <div class="section-heading"><h2>Vocabulary</h2></div>
+      <div class="vocab-grid" id="vocab-grid"></div>
+    </div>
+  </section>
+
+  <section class="section" id="phrases-section" style="display:none;">
+    <div class="container">
+      <div class="section-heading"><h2>Useful Phrases</h2></div>
+      <div id="phrases-list"></div>
+    </div>
+  </section>
+
+  <section class="section" id="conversation-section" style="display:none;">
+    <div class="container">
+      <div class="section-heading"><h2>Example Conversation</h2><span class="section-sub" id="conv-title"></span></div>
+      <div class="conversation-box" id="conversation-box"></div>
+    </div>
+  </section>
+
+  <section class="section" id="quiz-section">
+    <div class="container">
+      <div class="section-heading"><h2>Quiz</h2></div>
+      <div class="quiz-box" id="quiz-box"></div>
+    </div>
+  </section>
+
+  <div class="container">
+    <div class="lesson-nav">
+      <a class="btn btn-secondary btn-small" href="index.html#courses">← Back to all lessons</a>
+      <button class="btn btn-primary btn-small" id="mark-complete-btn">Mark Lesson Complete</button>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Learn Darija, a small, honest project for learning real spoken Moroccan Arabic.</p>
+    </div>
+  </footer>
+
+  <script src="lessons-data.js"></script>
+  <script src="progress.js"></script>
+  <script src="audio.js"></script>
+  <script src="lesson.js"></script>
+</body>
+</html>

@@ -1,0 +1,258 @@
+# Learn Darija — Voice Recording Checklist
+
+Every word below has a 🔊 Listen button somewhere on the site. Record yourself
+saying it, save it at the exact path shown, and the site plays your voice instead
+of the text-to-speech placeholder — automatically, no code changes needed.
+
+**All recordings go in one flat folder** named `audio`, next to your other site
+files. If a word is used in more than one lesson, record it once.
+
+---
+
+| ☐ | Darija (say it) | English | Used in | Save as |
+|---|---|---|---|---|
+| ☐ | 3achra (3ash-ra) | Ten | Numbers | `audio/3achra.mp3` |
+| ☐ | 3afak (3a-fak) | Please | Common Everyday Expressions | `audio/3afak.mp3` |
+| ☐ | 3ammi (3am-mee) | My paternal uncle | Family | `audio/3ammi.mp3` |
+| ☐ | 3ammti (3am-tee) | My paternal aunt | Family | `audio/3ammti.mp3` |
+| ☐ | 3assir (3as-seer) | Juice | Food and Drinks | `audio/3assir.mp3` |
+| ☐ | 3awed 3afak (3a-wed 3a-fak) | Say it again please | Asking Someone's Name | `audio/3awed-3afak.mp3` |
+| ☐ | 3awenni (3a-wen-nee) | Help me | Problems and Emergencies | `audio/3awenni.mp3` |
+| ☐ | 3ayan / 3ayana (3a-yan / 3a-ya-na) | Tired (m. / f.) | How Are You? | `audio/3ayan-3ayana.mp3` |
+| ☐ | 3azeb (3a-zeb) | Single (m. / f.) | Talking About Family | `audio/3azeb.mp3` |
+| ☐ | 3jebni (3jeb-nee) | I like it | Expressing Opinions | `audio/3jebni.mp3` |
+| ☐ | 3lach (3-lach) | Why? | How to Read Darija, Basic Questions | `audio/3lach.mp3` |
+| ☐ | 7bibi (7-bi-bi) | My dear / my love | How to Read Darija | `audio/7bibi.mp3` |
+| ☐ | Ajnabi (aj-na-bee) | Foreigner (m. / f.) | Where Are You From? | `audio/ajnabi.mp3` |
+| ☐ | Akhir taman (a-kheer ta-man) | Final price | At the Market | `audio/akhir-taman.mp3` |
+| ☐ | Ana (a-na) | I | Verbs in Darija: The Basics | `audio/ana.mp3` |
+| ☐ | Ana ghir kanshuf (a-na gheer kan-shoof) | I'm just looking | At the Market | `audio/ana-ghir-kanshuf.mp3` |
+| ☐ | Ana mn... (a-na mn) | I am from... | Introducing Yourself, Where Are You From? | `audio/ana-mn.mp3` |
+| ☐ | Ana mrid (a-na mreed) | I'm sick (m. / f.) | Problems and Emergencies | `audio/ana-mrid.mp3` |
+| ☐ | Ash kadir? (ash ka-deer) | What are you doing? | Talking About the Present | `audio/ash-kadir.mp3` |
+| ☐ | Ash? (ash) | What? | Basic Questions | `audio/ash.mp3` |
+| ☐ | Atay (a-tay) | Mint tea | Food and Drinks | `audio/atay.mp3` |
+| ☐ | Ay ay (eye eye) | Yeah yeah (filler agreement) | Real Moroccan Conversations | `audio/ay-ay.mp3` |
+| ☐ | B3id (b3eed) | Far | Asking for Directions | `audio/b3id.mp3` |
+| ☐ | Baba (ba-ba) | Father / dad | Family | `audio/baba.mp3` |
+| ☐ | Bagaj (ba-gazh) | Luggage | Travel | `audio/bagaj.mp3` |
+| ☐ | Bax katnsahni? (bakh kat-nsah-nee) | What do you recommend? | At a Restaurant | `audio/bax-katnsahni.mp3` |
+| ☐ | Bekri (bek-ree) | Early | Daily Activities | `audio/bekri.mp3` |
+| ☐ | Bhal hakka (b-hal ha-ka) | Like this / so | Real Moroccan Conversations | `audio/bhal-hakka.mp3` |
+| ☐ | Bikhir (bee-kheer) | Well / fine | How Are You? | `audio/bikhir.mp3` |
+| ☐ | Bit (beet) | Room | At Home | `audio/bit.mp3` |
+| ☐ | Blad (blad) | Country | Where Are You From? | `audio/blad.mp3` |
+| ☐ | Blasa (bla-sa) | Seat / place | At a Café | `audio/blasa.mp3` |
+| ☐ | Bnti (bn-tee) | My daughter | Family | `audio/bnti.mp3` |
+| ☐ | Bref (bref) | Anyway / in short | Real Moroccan Conversations | `audio/bref.mp3` |
+| ☐ | Bsa7a (b-sah-ha) | Enjoy / cheers (said after eating, a haircut, etc.) | Common Everyday Expressions | `audio/bsa7a.mp3` |
+| ☐ | Bsahtek (b-sah-tek) | Enjoy your meal (lit. to your health) | At a Restaurant | `audio/bsahtek.mp3` |
+| ☐ | Bslama (b-sla-ma) | Goodbye | Greetings | `audio/bslama.mp3` |
+| ☐ | Bulisse (boo-lees) | Police | Problems and Emergencies | `audio/bulisse.mp3` |
+| ☐ | bzaf (bzaf) | A lot / very much | How to Read Darija | `audio/bzaf.mp3` |
+| ☐ | Chno smitek? (chno smee-tek) | What's your name? | Introducing Yourself | `audio/chno-smitek.mp3` |
+| ☐ | Daba (da-ba) | Now | Days and Time | `audio/daba.mp3` |
+| ☐ | Damana (da-ma-na) | Warranty | Shopping Conversations | `audio/damana.mp3` |
+| ☐ | Dar (dar) | House / home | At Home | `audio/dar.mp3` |
+| ☐ | Ddini l... (d-dee-nee l) | Take me to... | Taking a Taxi | `audio/ddini-l.mp3` |
+| ☐ | Dkhul (d-khool) | Come in | At Home | `audio/dkhul.mp3` |
+| ☐ | Fatura (fa-too-ra) | Receipt | Shopping Conversations | `audio/fatura.mp3` |
+| ☐ | Fe9t bekri (fe9t bek-ree) | I woke up early | Talking About Your Day | `audio/fe9t-bekri.mp3` |
+| ☐ | Fin ghadi netla9aw? (feen gha-dee net-la-9aw) | Where will we meet? | Making Plans | `audio/fin-ghadi-netla9aw.mp3` |
+| ☐ | Fin kayn...? (feen kayn) | Where is...? | Asking for Directions | `audio/fin-kayn.mp3` |
+| ☐ | Fin? (feen) | Where? | Basic Questions | `audio/fin.mp3` |
+| ☐ | Flous (floos) | Money | Shopping | `audio/flous.mp3` |
+| ☐ | Fruta (froo-ta) | Fruit / dessert | Food and Drinks | `audio/fruta.mp3` |
+| ☐ | Fuqash? (foo-9ash) | When? | Basic Questions | `audio/fuqash.mp3` |
+| ☐ | Garso (gar-so) | Waiter | At a Café | `audio/garso.mp3` |
+| ☐ | Ghadi nemshi (gha-dee ne-mshi) | I will go | Talking About the Future | `audio/ghadi-nemshi.mp3` |
+| ☐ | Ghadi netla9aw (gha-dee net-la-9aw) | We will meet up | Making Plans | `audio/ghadi-netla9aw.mp3` |
+| ☐ | Ghadi nkteb (gha-dee n-kteb) | I will write | Talking About the Future | `audio/ghadi-nkteb.mp3` |
+| ☐ | Ghadi tji? (gha-dee tzhee) | Will you come? | Talking About the Future | `audio/ghadi-tji.mp3` |
+| ☐ | Ghadi ykun (gha-dee y-koon) | It will be / he will be | Talking About the Future | `audio/ghadi-ykun.mp3` |
+| ☐ | Ghda (gh-da) | Tomorrow | Days and Time | `audio/ghda.mp3` |
+| ☐ | Hada (ha-da) | This is (masc., introducing someone) | Asking Someone's Name | `audio/hada.mp3` |
+| ☐ | Hadi (ha-dee) | This is (fem., introducing someone) | Asking Someone's Name | `audio/hadi.mp3` |
+| ☐ | Hafila (ha-fee-la) | Bus / coach | Travel | `audio/hafila.mp3` |
+| ☐ | Halwa (hal-wa) | Dessert / sweets | At a Restaurant | `audio/halwa.mp3` |
+| ☐ | Hamdullah (ham-doo-lah) | Thank God | More Natural Moroccan Expressions | `audio/hamdullah.mp3` |
+| ☐ | Hanut (ha-noot) | Shop / small store | Shopping | `audio/hanut.mp3` |
+| ☐ | Har (har) | Spicy | At a Restaurant | `audio/har.mp3` |
+| ☐ | Hda (hda) | Next to | Asking for Directions | `audio/hda.mp3` |
+| ☐ | Hiya (hi-ya) | She | Verbs in Darija: The Basics | `audio/hiya.mp3` |
+| ☐ | Hlib (hleeb) | Milk | Food and Drinks | `audio/hlib.mp3` |
+| ☐ | Hna (hna) | We | Verbs in Darija: The Basics | `audio/hna.mp3` |
+| ☐ | Howa (ho-wa) | He | Verbs in Darija: The Basics | `audio/howa.mp3` |
+| ☐ | Huma (hoo-ma) | They | Verbs in Darija: The Basics | `audio/huma.mp3` |
+| ☐ | Hut (hoot) | Fish | Food and Drinks | `audio/hut.mp3` |
+| ☐ | Ijaza (ee-ja-za) | Vacation / leave | Talking About Work | `audio/ijaza.mp3` |
+| ☐ | Imte7an (eem-te-han) | Exam | Talking About School | `audio/imte7an.mp3` |
+| ☐ | Inshallah (in-shal-lah) | God willing | Common Everyday Expressions | `audio/inshallah.mp3` |
+| ☐ | Is3af (ees-3af) | Ambulance / emergency aid | Problems and Emergencies | `audio/is3af.mp3` |
+| ☐ | Ja (zha) | He came | Talking About the Past | `audio/ja.mp3` |
+| ☐ | Jami3a (ja-mee-3a) | University | Talking About School | `audio/jami3a.mp3` |
+| ☐ | Jawaz safar (ja-waz sa-far) | Passport | Travel | `audio/jawaz-safar.mp3` |
+| ☐ | Jddati (jd-da-tee) | My grandmother | Family | `audio/jddati.mp3` |
+| ☐ | Jddi (jd-dee) | My grandfather | Family | `audio/jddi.mp3` |
+| ☐ | Jjem3a (jj-em-3a) | Friday | Days and Time | `audio/jjem3a.mp3` |
+| ☐ | Jouj (joozh) | Two | Numbers | `audio/jouj.mp3` |
+| ☐ | Kadeau (ka-doh) | Gift | Shopping Conversations | `audio/kadeau.mp3` |
+| ☐ | Kan nhar tewil (kan nhar t-weel) | It was a long day | Talking About Your Day | `audio/kan-nhar-tewil.mp3` |
+| ☐ | Kan3as (kan-3as) | I sleep | Daily Activities | `audio/kan3as.mp3` |
+| ☐ | Kanfe9 bekri (kan-fe9 bek-ree) | I wake up early | Daily Activities | `audio/kanfe9-bekri.mp3` |
+| ☐ | Kankhrjou (kan-khr-zhoo) | We go out (together) | Talking About Friends | `audio/kankhrjou.mp3` |
+| ☐ | Kankteb (kan-kteb) | I write / I'm writing | Talking About the Present | `audio/kankteb.mp3` |
+| ☐ | Kanmshi lkhedma (kan-mshee l-khed-ma) | I go to work | Daily Activities | `audio/kanmshi-lkhedma.mp3` |
+| ☐ | Kanrja3 ldar (kan-rja3 l-dar) | I go back home | Daily Activities | `audio/kanrja3-ldar.mp3` |
+| ☐ | Kanshuf bli... (kan-shoof blee) | I think that... | Expressing Opinions | `audio/kanshuf-bli.mp3` |
+| ☐ | Kanskon (kan-skon) | I live (reside) | Talking About the Present | `audio/kanskon.mp3` |
+| ☐ | Kanwafe9 (kan-wa-fe9) | I agree | Expressing Opinions | `audio/kanwafe9.mp3` |
+| ☐ | Kas (kas) | Glass / cup | At a Café | `audio/kas.mp3` |
+| ☐ | Kaykhdem (kay-khdem) | He works | Talking About the Present | `audio/kaykhdem.mp3` |
+| ☐ | Kaymshi (kay-mshi) | He goes / he's going | Talking About the Present | `audio/kaymshi.mp3` |
+| ☐ | Kbir (kbeer) | Big | Shopping | `audio/kbir.mp3` |
+| ☐ | Khali (kha-lee) | My maternal uncle | Family | `audio/khali.mp3` |
+| ☐ | Khalti (khal-tee) | My maternal aunt | Family | `audio/khalti.mp3` |
+| ☐ | Khamsa (kham-sa) | Five | Numbers | `audio/khamsa.mp3` |
+| ☐ | Khayb (khaib) | Bad / lame (m. / f.) | Common Slang | `audio/khayb.mp3` |
+| ☐ | Khedma (khed-ma) | Work / job | Talking About Work | `audio/khedma.mp3` |
+| ☐ | Khobz (khobz) | Bread | Food and Drinks | `audio/khobz.mp3` |
+| ☐ | Khodra (khod-ra) | Vegetables | Food and Drinks | `audio/khodra.mp3` |
+| ☐ | Khoya (kho-ya) | My brother | Family | `audio/khoya.mp3` |
+| ☐ | Khti (kh-tee) | My sister | Family | `audio/khti.mp3` |
+| ☐ | Khyar (khyar) | Cucumber | At the Market | `audio/khyar.mp3` |
+| ☐ | Kidayer? (ki-da-yer) | How's it going? (to a man) | How Are You? | `audio/kidayer.mp3` |
+| ☐ | Kidayra? (ki-day-ra) | How's it going? (to a woman) | How Are You? | `audio/kidayra.mp3` |
+| ☐ | Kifash katketb smitek? (kee-fash kat-ketb smee-tek) | How do you spell your name? | Asking Someone's Name | `audio/kifash-katketb-smitek.mp3` |
+| ☐ | Kifash? (kee-fash) | How? | Basic Questions | `audio/kifash.mp3` |
+| ☐ | Kilo (kee-lo) | Kilogram | At the Market | `audio/kilo.mp3` |
+| ☐ | Klit (kleet) | I ate | Talking About the Past | `audio/klit.mp3` |
+| ☐ | Kouskous (koos-koos) | Couscous | Food and Drinks | `audio/kouskous.mp3` |
+| ☐ | Ktebt (kteb-t) | I wrote | Talking About the Past | `audio/ktebt.mp3` |
+| ☐ | Kumbtur (koom-bteur) | The meter | Taking a Taxi | `audio/kumbtur.mp3` |
+| ☐ | Kun (koon) | He was (base form of "to be") | Talking About the Past | `audio/kun.mp3` |
+| ☐ | Kunt t3ban (koont t3-ban) | I was tired (m. / f.) | Talking About Your Day | `audio/kunt-t3ban.mp3` |
+| ☐ | Kuzina (koo-zee-na) | Kitchen | At Home | `audio/kuzina.mp3` |
+| ☐ | Labas? (la-bas) | How are you? (lit. no harm?) | How Are You? | `audio/labas.mp3` |
+| ☐ | Lalla (lal-la) | Ma'am / Mrs. (respectful address) | Asking Someone's Name | `audio/lalla.mp3` |
+| ☐ | Larb3a (larb-3a) | Wednesday | Days and Time | `audio/larb3a.mp3` |
+| ☐ | Lawn (lawn) | Color | Shopping | `audio/lawn.mp3` |
+| ☐ | Lbar7 (l-bar-h) | Yesterday | Days and Time | `audio/lbar7.mp3` |
+| ☐ | Lham (l-ham) | Meat | Food and Drinks | `audio/lham.mp3` |
+| ☐ | Lhsab (l-h-sab) | The bill | At a Café | `audio/lhsab.mp3` |
+| ☐ | Limen (lee-men) | Right (direction) | Taking a Taxi | `audio/limen.mp3` |
+| ☐ | Lisser (lee-sser) | Left (direction) | Taking a Taxi | `audio/lisser.mp3` |
+| ☐ | Lkhmis (l-khmees) | Thursday | Days and Time | `audio/lkhmis.mp3` |
+| ☐ | Lmenu (l-me-noo) | The menu | At a Restaurant | `audio/lmenu.mp3` |
+| ☐ | Lmghrib (l-magh-rib) | Morocco | Where Are You From? | `audio/lmghrib.mp3` |
+| ☐ | Ltnin (lt-neen) | Monday | Days and Time | `audio/ltnin.mp3` |
+| ☐ | Lyoum (l-yoom) | Today | Days and Time | `audio/lyoum.mp3` |
+| ☐ | M3attel (m3at-tel) | Late | Daily Activities | `audio/m3attel.mp3` |
+| ☐ | Ma (ma) | Water | Food and Drinks | `audio/ma.mp3` |
+| ☐ | Ma kanwafe9sh (ma kan-wa-fe9sh) | I don't agree | Expressing Opinions | `audio/ma-kanwafe9sh.mp3` |
+| ☐ | Ma3ash (ma-3ash) | Salary | Talking About Work | `audio/ma3ash.mp3` |
+| ☐ | Ma3jebnish (ma-3jeb-neesh) | I don't like it | Expressing Opinions | `audio/ma3jebnish.mp3` |
+| ☐ | Ma7atta (ma-hat-ta) | Station | Travel | `audio/ma7atta.mp3` |
+| ☐ | Machi mushkil (ma-shee mush-kil) | No problem | Common Everyday Expressions | `audio/machi-mushkil.mp3` |
+| ☐ | Madina (ma-dee-na) | City | Where Are You From? | `audio/madina.mp3` |
+| ☐ | Madrasa (ma-dra-sa) | School | Talking About School | `audio/madrasa.mp3` |
+| ☐ | Mama (ma-ma) | Mother / mom | Family | `audio/mama.mp3` |
+| ☐ | Mar7ba (mar-h-ba) | Welcome | Greetings | `audio/mar7ba.mp3` |
+| ☐ | Maskin (mas-keen) | Poor thing (m. / f.) | More Natural Moroccan Expressions | `audio/maskin.mp3` |
+| ☐ | Matar (ma-tar) | Airport | Travel | `audio/matar.mp3` |
+| ☐ | Maticha (ma-tee-sha) | Tomatoes | At the Market | `audio/maticha.mp3` |
+| ☐ | Meghribi (megh-ree-bee) | Moroccan (m. / f.) | Where Are You From? | `audio/meghribi.mp3` |
+| ☐ | Mnin nta? (mneen nta) | Where are you from? | Where Are You From? | `audio/mnin-nta.mp3` |
+| ☐ | Mra dyali (mra dya-lee) | My wife | Talking About Family | `audio/mra-dyali.mp3` |
+| ☐ | Msa lkhir (m-sa l-kheer) | Good evening | Greetings | `audio/msa-lkhir.mp3` |
+| ☐ | Mshit (m-sheet) | I went | Talking About the Past | `audio/mshit.mp3` |
+| ☐ | Mshit lkhedma (m-sheet l-khed-ma) | I went to work | Talking About Your Day | `audio/mshit-lkhedma.mp3` |
+| ☐ | Mudir (moo-deer) | Boss / manager (m. / f.) | Talking About Work | `audio/mudir.mp3` |
+| ☐ | Mushkil (moosh-keel) | Problem | Problems and Emergencies | `audio/mushkil.mp3` |
+| ☐ | Mzewwej (mzeu-wej) | Married (masc.) | Talking About Family | `audio/mzewwej.mp3` |
+| ☐ | Mzewwja (mzeu-wja) | Married (fem.) | Talking About Family | `audio/mzewwja.mp3` |
+| ☐ | Mzyan m3a (mzyan m3a) | Gets along well with | Talking About Friends | `audio/mzyan-m3a.mp3` |
+| ☐ | N3ayet lik (n3a-yet leek) | I'll call you | Making Plans | `audio/n3ayet-lik.mp3` |
+| ☐ | Nas 3zizin (nas 3zee-zeen) | Dear people | Talking About Friends | `audio/nas-3zizin.mp3` |
+| ☐ | Nbeddel (n-bed-del) | I exchange / I change | Shopping Conversations | `audio/nbeddel.mp3` |
+| ☐ | Nchallah (n-shal-lah) | God willing | More Natural Moroccan Expressions | `audio/nchallah.mp3` |
+| ☐ | Ness kilo (ness kee-lo) | Half a kilo | At the Market | `audio/ness-kilo.mp3` |
+| ☐ | Nhar l7ad (n-har l-had) | Sunday (lit. "day of" + l7ad) | Days and Time | `audio/nhar-l7ad.mp3` |
+| ☐ | Nishan (nee-shan) | Straight ahead | Taking a Taxi | `audio/nishan.mp3` |
+| ☐ | Njarreb (n-jar-reb) | I try (on) | Shopping | `audio/njarreb.mp3` |
+| ☐ | Nos-nos (nos-nos) | Half coffee, half milk (a café classic) | At a Café | `audio/nos-nos.mp3` |
+| ☐ | Nta (nta) | You (masc. / fem.) | Verbs in Darija: The Basics | `audio/nta.mp3` |
+| ☐ | Nta / Nti (nta / ntee) | You (to a man / to a woman) | Introducing Yourself | `audio/nta-nti.mp3` |
+| ☐ | Ntafqu 3la... (nta-f-9oo) | Let's agree on... | Making Plans | `audio/ntafqu-3la.mp3` |
+| ☐ | Ntuma (ntoo-ma) | You all | Verbs in Darija: The Basics | `audio/ntuma.mp3` |
+| ☐ | Qahwa (9ah-wa) | Coffee | Food and Drinks | `audio/qahwa.mp3` |
+| ☐ | Qahwa kahla (9ah-wa kah-la) | Black coffee | At a Café | `audio/qahwa-kahla.mp3` |
+| ☐ | Qddam (9d-dam) | In front of | Asking for Directions | `audio/qddam.mp3` |
+| ☐ | Qrib (9reeb) | Close / nearby | Asking for Directions | `audio/qrib.mp3` |
+| ☐ | Ra2y (ra-ey) | Opinion | Expressing Opinions | `audio/ra2y.mp3` |
+| ☐ | Rajl dyali (razhl dya-lee) | My husband | Talking About Family | `audio/rajl-dyali.mp3` |
+| ☐ | Rb3a (rb-3a) | Four | Numbers | `audio/rb3a.mp3` |
+| ☐ | Reservation (re-zer-va-syon) | Reservation | At a Restaurant | `audio/reservation.mp3` |
+| ☐ | Rje3t ldar (rje3t l-dar) | I came back home | Talking About Your Day | `audio/rje3t-ldar.mp3` |
+| ☐ | Rtah (r-tah) | Relax / make yourself comfortable | At Home | `audio/rtah.mp3` |
+| ☐ | Sa7ab (sa-hab) | Friends (plural) | Talking About Friends | `audio/sa7ab.mp3` |
+| ☐ | Safi (sa-fee) | Enough / that's it / okay done | Common Slang | `audio/safi.mp3` |
+| ☐ | Sahbi (sah-bee) | My friend (m. / f.) | Talking About Friends | `audio/sahbi.mp3` |
+| ☐ | Salam (sa-lam) | Hello / Peace | Greetings | `audio/salam.mp3` |
+| ☐ | Salon (sa-lon) | Living room | At Home | `audio/salon.mp3` |
+| ☐ | Sb3a (sb-3a) | Seven | Numbers | `audio/sb3a.mp3` |
+| ☐ | Sbah lkhir (sbah l-kheer) | Good morning | Greetings | `audio/sbah-lkhir.mp3` |
+| ☐ | Sbitar (sbee-tar) | Hospital | Problems and Emergencies | `audio/sbitar.mp3` |
+| ☐ | Sghir (sgheer) | Small | Shopping | `audio/sghir.mp3` |
+| ☐ | Sharika (sha-ree-ka) | Company | Talking About Work | `audio/sharika.mp3` |
+| ☐ | Shhal? (sh-hal) | How much? / How many? | Numbers, Basic Questions | `audio/shhal.mp3` |
+| ☐ | Shkun? (shkoon) | Who? | Basic Questions | `audio/shkun.mp3` |
+| ☐ | Shukran (shuk-ran) | Thank you | Common Everyday Expressions | `audio/shukran.mp3` |
+| ☐ | Shwiya shwiya (shwee-ya shwee-ya) | So-so / little by little | How Are You? | `audio/shwiya-shwiya.mp3` |
+| ☐ | Sidi (see-dee) | Sir / Mr. (respectful address) | Asking Someone's Name | `audio/sidi.mp3` |
+| ☐ | Sifr (si-fr) | Zero | Numbers | `audio/sifr.mp3` |
+| ☐ | Sme7 liya (sm-eh lee-ya) | Excuse me / sorry | Common Everyday Expressions | `audio/sme7-liya.mp3` |
+| ☐ | Smiti (smee-tee) | My name is | Introducing Yourself | `audio/smiti.mp3` |
+| ☐ | Souq (sook) | Market | Shopping | `audio/souq.mp3` |
+| ☐ | Souq lkhodra (sook l-khod-ra) | The vegetable market | At the Market | `audio/souq-lkhodra.mp3` |
+| ☐ | Ssebt (s-sebt) | Saturday | Days and Time | `audio/ssebt.mp3` |
+| ☐ | Stta (st-ta) | Six | Numbers | `audio/stta.mp3` |
+| ☐ | Sukkar (suk-kar) | Sugar | At a Café | `audio/sukkar.mp3` |
+| ☐ | T3ban (t3-ban) | Tired (m. / f.) | Daily Activities | `audio/t3ban.mp3` |
+| ☐ | Ta3rifa (ta-3ree-fa) | Discount / promotion | Shopping Conversations | `audio/ta3rifa.mp3` |
+| ☐ | Taille (ta-ye) | Size | Shopping | `audio/taille.mp3` |
+| ☐ | Tajine (ta-zheen) | Tajine (slow-cooked stew) | Food and Drinks | `audio/tajine.mp3` |
+| ☐ | Tayara (ta-ya-ra) | Plane | Travel | `audio/tayara.mp3` |
+| ☐ | Tazkara (taz-ka-ra) | Ticket | Travel | `audio/tazkara.mp3` |
+| ☐ | Tbarkellah (tba-rek-lah) | Wow / impressive | Common Slang | `audio/tbarkellah.mp3` |
+| ☐ | Tbib (tbeeb) | Doctor (m. / f.) | Problems and Emergencies | `audio/tbib.mp3` |
+| ☐ | Tlata (tla-ta) | Three | Numbers | `audio/tlata.mp3` |
+| ☐ | Tlmid (tl-meed) | Student (m. / f.) | Talking About School | `audio/tlmid.mp3` |
+| ☐ | Tmnya (tm-nya) | Eight | Numbers | `audio/tmnya.mp3` |
+| ☐ | Toilet (twa-let) | Bathroom / toilet | At Home | `audio/toilet.mp3` |
+| ☐ | Tran (trahn) | Train | Travel | `audio/tran.mp3` |
+| ☐ | Tsa3ud (tsa-3ud) | Nine | Numbers | `audio/tsa3ud.mp3` |
+| ☐ | Tsba7 3la khir (ts-bah 3la kheer) | Good night | Greetings | `audio/tsba7-3la-khir.mp3` |
+| ☐ | Tsharrafna (tshar-raf-na) | Nice to meet you | Introducing Yourself | `audio/tsharrafna.mp3` |
+| ☐ | Ttaksi (t-tak-see) | Taxi | Taking a Taxi | `audio/ttaksi.mp3` |
+| ☐ | Ttlat (t-t-lat) | Tuesday | Days and Time | `audio/ttlat.mp3` |
+| ☐ | Ustad (oos-tad) | Teacher (m. / f.) | Talking About School | `audio/ustad.mp3` |
+| ☐ | Wach nta msali? (wach nta msa-lee) | Are you free? (m. / f.) | Making Plans | `audio/wach-nta-msali.mp3` |
+| ☐ | Wahed (wa-hed) | One | Numbers | `audio/wahed.mp3` |
+| ☐ | Wajib (wa-jeeb) | Homework | Talking About School | `audio/wajib.mp3` |
+| ☐ | wakha (wa-kha) | Okay / alright | How to Read Darija, Common Everyday Expressions | `audio/wakha.mp3` |
+| ☐ | Walakin (wa-la-keen) | But / however | Real Moroccan Conversations | `audio/walakin.mp3` |
+| ☐ | Waqila (wa-9ee-la) | Maybe / perhaps | More Natural Moroccan Expressions | `audio/waqila.mp3` |
+| ☐ | Weldi (wel-dee) | My son | Family | `audio/weldi.mp3` |
+| ☐ | Wesh (wesh) | Hey / yo (casual greeting) | Common Slang | `audio/wesh.mp3` |
+| ☐ | Wladi (wla-dee) | My kids | Talking About Family | `audio/wladi.mp3` |
+| ☐ | Wllah (wl-lah) | I swear / really | More Natural Moroccan Expressions | `audio/wllah.mp3` |
+| ☐ | Wqf hna 3afak (w9f hna 3a-fak) | Stop here please | Taking a Taxi | `audio/wqf-hna-3afak.mp3` |
+| ☐ | Wra (wra) | Behind | Asking for Directions | `audio/wra.mp3` |
+| ☐ | Yallah (ya-llah) | Let's go / come on | Common Everyday Expressions, More Natural Moroccan Expressions | `audio/yallah.mp3` |
+| ☐ | Zanka (zan-ka) | Street | Asking for Directions | `audio/zanka.mp3` |
+| ☐ | Zmil (zmeel) | Colleague (m. / f.) | Talking About Work | `audio/zmil.mp3` |
+| ☐ | Zwin (zween) | Cool / nice (m. / f.) | Common Slang | `audio/zwin.mp3` |
+
+---
+**Total: 242 unique words/phrases across all 37 lessons.**
